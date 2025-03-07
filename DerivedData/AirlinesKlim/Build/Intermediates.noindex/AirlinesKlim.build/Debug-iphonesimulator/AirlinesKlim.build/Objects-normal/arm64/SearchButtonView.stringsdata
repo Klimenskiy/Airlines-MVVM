@@ -1,0 +1,16 @@
+{
+  "source": "/Users/klim/Documents/Weather/AirlinesKlim/AirlinesKlim/Views/SearchButtonView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Search",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 8
+        }
+      }
+    ]
+  },
+  "version": 1
+}

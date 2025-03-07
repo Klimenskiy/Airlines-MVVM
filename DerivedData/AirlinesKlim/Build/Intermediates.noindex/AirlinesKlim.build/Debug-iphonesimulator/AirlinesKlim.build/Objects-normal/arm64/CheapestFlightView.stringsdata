@@ -1,0 +1,24 @@
+{
+  "source": "/Users/klim/Documents/Weather/AirlinesKlim/AirlinesKlim/Views/CheapestFlightView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Cheapest Flights",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 9
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld RUB",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 24
+        }
+      }
+    ]
+  },
+  "version": 1
+}

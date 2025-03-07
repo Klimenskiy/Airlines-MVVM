@@ -1,0 +1,14 @@
+# Xcode
+DerivedData/
+build/
+*.xccheckout
+*.xcodeproj/project.xcworkspace/
+*.xcuserstate
+*.log
+*.tmp
+*.bak
+*.swp
+node_modules/
+npm-debug.log
+yarn-error.log
+

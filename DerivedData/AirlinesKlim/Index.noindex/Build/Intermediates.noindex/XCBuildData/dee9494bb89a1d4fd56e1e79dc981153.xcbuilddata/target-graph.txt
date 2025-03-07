@@ -1,3 +1,0 @@
-Target dependency graph (2 targets)
-Target 'AirlinesKlim' in project 'AirlinesKlim' (no dependencies)
-Target 'AirlinesKlim' in project 'AirlinesKlim' (no dependencies)
